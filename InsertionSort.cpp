@@ -17,3 +17,7 @@ break;
 }
 else
 {
+cout << "\nArray yang anda masukkan maksimal 20 Elemen.\n"; // Menampilkan Pesan jika data lebih dari 20
+}
+}
+
